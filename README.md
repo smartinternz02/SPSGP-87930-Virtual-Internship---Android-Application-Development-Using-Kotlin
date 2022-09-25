@@ -57,4 +57,5 @@ All projects module wise
 Main Project
 -------------------
 [Nearby Places app](https://github.com/smartinternz02/SPSGP-87930-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/NearbyPlaces.zip)
+
 [Project Report](https://github.com/smartinternz02/SPSGP-87930-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Nearby%20places%20project%20report%20-%20Aniket%20gupta.pdf)
